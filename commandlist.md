@@ -15,12 +15,12 @@ _Commands_
 * create a .pairs file
 * open the file with Atom, and put in the following lines
 
-_pairs:
+pairs:
  * jm: jason mcgrady
  * SE: samantha egelhoff
 email:
  * jm: jbird206.gmail
- * se: samantha.egelhoff@gmail.com_
+ * se: samantha.egelhoff@gmail.com
 
 ## Initializing a new Git project ##
 * navigate to the directory of the files
