@@ -2,6 +2,7 @@
 _Commands_
 * mkdir- Makes a directory
 * touch- creates a file
+* pwd- gives current location
 * ls- list files in the directory
 * ls-a- lists hidden files
 * mv- move file or directory. "_epicodus-5:intro-to-programming Guest$ mv my-first-webpage.html first-webpage/my-first-webpage.html_"
