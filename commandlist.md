@@ -10,8 +10,8 @@ _Commands_
 * rm -r removes entire directory and files there in
 * cd- navigate to
 * cd ~- navigate back to home
-* embed a picture-  // ![gyro](https://twosleevers.com/wp-content/uploads/2017/06/3-Homemade-Gyro-Meat-2-500x375.jpg)
-* embed a limk- [Click here](https://www.epicodus.com/) to check out Epicodus!
+* embed a picture-   "![gyro](https://twosleevers.com/wp-content/uploads/2017/06/3-Homemade-Gyro-Meat-2-500x375.jpg)"
+* embed a limk- "[Click here](https://www.epicodus.com/) to check out Epicodus!"
 
 ## How to initialize a pairs file and project ##
 * create a .pairs file
